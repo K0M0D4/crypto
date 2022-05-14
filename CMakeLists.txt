@@ -3,4 +3,4 @@ project(crypto)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(${PROJECT_NAME} main.cpp App.cpp App.hpp)
+add_executable(${PROJECT_NAME} main.cpp App.cpp)
