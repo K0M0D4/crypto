@@ -1,5 +1,5 @@
 # crypto
-Simple cipher/decipher program/
+Simple cipher/decipher program.
 
 Usage shuold be self-explanatory.
 
