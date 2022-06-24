@@ -1,7 +1,7 @@
 # crypto
 Simple cipher/decipher program.
 
-Usage shuold be self-explanatory.
+Usage should be self-explanatory.
 
 # Build using cmake and linux make
 ```
